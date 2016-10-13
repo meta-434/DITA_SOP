@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="t-icecream-cleanup">
+    <title>Post-Ice Cream and Clean Up</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
