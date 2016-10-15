@@ -2,14 +2,25 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t-icecream-preparation">
     <title>Preparation</title>
-    <shortdesc/>
     <taskbody>
-        <context>
-            <p></p>
-        </context>
+        <prereq>
+            <ul>
+                <li>Your ice cream ingredients</li>
+                <li>A Clean Cusiinart Ice Cream maker and its neccesary components</li>
+                <li>Time. You'll need about 20-45 minutes to make a batch of ice cream, depending on what you're making.</li>
+            </ul>
+            <p/>
+            <hazardstatement>
+                <messagepanel>
+                    <typeofhazard>Overflow!</typeofhazard>
+                    <howtoavoid>Make sure the recipe you're using makes 2 quarts or less. Any more and your mixture will overflow, possibly damaing the ice cream maker.</howtoavoid>
+                </messagepanel>
+            </hazardstatement>
+        </prereq>
+        
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd/>
             </step>
         </steps>
     </taskbody>
