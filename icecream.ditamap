@@ -6,7 +6,9 @@
  <topicref href="_tasks/preparation.dita" />
  <topicref href="_tasks/making.dita"/>
  <topicref href="_tasks/cleanup.dita"/>
- <topicref href="_tasks/recipes.dita"/>
- <topicref href="_tasks/troubleshooting.dita"/>
+ <mapref href="/users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/recipes.ditamap"/>
+ <mapref href="troubleshooting.ditamap"/>
+ <topicref href="_topics/references.dita"/>
+ 
 </map>
 

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d)                            (topic abbrev-d)                            (topic delay-d)                            a(props deliveryTarget)                            (map ditavalref-d)                            (map glossref-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " title="Ice Cream Standard Operating Procedure" xtrc="map:1;3:53" xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/icecream.ditamap"><opentopic:map xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder">
+ <title xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- topic/title " xtrc="title:1;4:9" xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/icecream.ditamap">Cuisinart ICE-60W Instructions </title>
+ <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- map/topicref " href="#unique_1" id="unique_1" type="concept" xtrc="topicref:1;5:52" xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/icecream.ditamap" ohref="_concepts/icecreamconcept.dita" first_topic_id="#unique_1"><topicmeta class="- map/topicmeta " resourceid="c-icecream"><navtitle class="- topic/navtitle ">Cuisinart ICE-60W Operating Procedure</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Cuisinart ICE-60W Operating Procedure</linktext><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">This procedure is meant to guide you through the ice cream making process as quickly and safely as possible. This guide also has recipes at the end to give some suggestions for the most delicious ice cream possible. The Cuisinart ICE-60W is a simple machine use, and with just a little bit of time, you'll have a delicious bowl of homemade ice cream.</shortdesc></topicmeta></topicref> 
+ <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- map/topicref " href="#unique_2" id="unique_2" type="task" xtrc="topicref:2;6:45" xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/icecream.ditamap" ohref="_tasks/preparation.dita" first_topic_id="#unique_2"><topicmeta class="- map/topicmeta " resourceid="t-icecream-preparation"><navtitle class="- topic/navtitle ">Preparation</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Preparation</linktext></topicmeta></topicref>
+ <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- map/topicref " href="#unique_3" id="unique_3" type="task" xtrc="topicref:3;7:39" xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/icecream.ditamap" ohref="_tasks/making.dita" first_topic_id="#unique_3"><topicmeta class="- map/topicmeta " resourceid="t-icecream-making"><navtitle class="- topic/navtitle ">Making the Ice Cream</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Making the Ice Cream</linktext></topicmeta></topicref>
+ <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- map/topicref " href="#unique_4" id="unique_4" type="task" xtrc="topicref:4;8:40" xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/icecream.ditamap" ohref="_tasks/cleanup.dita" first_topic_id="#unique_4"><topicmeta class="- map/topicmeta " resourceid="t-icecream-cleanup"><navtitle class="- topic/navtitle ">Post-Ice Cream and Clean Up</navtitle><?ditaot gentext?><linktext class="- map/linktext ">Post-Ice Cream and Clean Up</linktext></topicmeta></topicref>
+ <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- map/topicref " href="#null" id="null" xtrc="topicref:5;9:103" xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/icecream.ditamap" ohref="../../../../../../users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/icecream.ditamap" first_topic_id="#null"><topicmeta class="- map/topicmeta " resourceid=""/></topicref>
+ <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- map/topicref " href="#null" id="null_ssol1" xtrc="topicref:6;10:44" xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/icecream.ditamap" ohref="troubleshooting.ditamap" first_topic_id="#null"><topicmeta class="- map/topicmeta " resourceid=""/></topicref>
+ <topicref xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- map/topicref " href="#unique_5" id="unique_5" type="reference" xtrc="topicref:7;11:44" xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/icecream.ditamap" ohref="_topics/references.dita" first_topic_id="#unique_5"><topicmeta class="- map/topicmeta " resourceid="reference_akz_zdj_qx"><navtitle class="- topic/navtitle ">References</navtitle><?ditaot gentext?><linktext class="- map/linktext ">References</linktext></topicmeta></topicref>
+ 
+</opentopic:map><concept xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" ditaarch:DITAArchVersion="1.3" domains="(topic concept)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " class="- topic/topic concept/concept " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_concepts/icecreamconcept.dita" xtrc="concept:1;3:26" xml:lang="en" oid="c-icecream" id="unique_1">
+ <title class="- topic/title " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_concepts/icecreamconcept.dita" xtrc="title:1;4:9">Cuisinart ICE-60W Operating Procedure</title>
+ <shortdesc class="- topic/shortdesc " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_concepts/icecreamconcept.dita" xtrc="shortdesc:1;5:13">This procedure is meant to guide you through the ice cream making process as quickly and safely as possible. This guide also has recipes at the end to give some suggestions for the most delicious ice cream possible. The Cuisinart ICE-60W is a simple machine use, and with just a little bit of time, you'll have a delicious bowl of homemade ice cream.</shortdesc>
+</concept><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic task/task " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/preparation.dita" xtrc="task:1;3:35" xml:lang="en" oid="t-icecream-preparation" id="unique_2">
+    <title class="- topic/title " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/preparation.dita" xtrc="title:1;4:12">Preparation</title>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/preparation.dita" xtrc="taskbody:1;5:15">
+        <prereq class="- topic/section task/prereq " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/preparation.dita" xtrc="prereq:1;6:17">
+            <ul class="- topic/ul " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/preparation.dita" xtrc="ul:1;7:17">
+                <li class="- topic/li " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/preparation.dita" xtrc="li:1;8:21">Your ice cream ingredients</li>
+                <li class="- topic/li " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/preparation.dita" xtrc="li:2;9:21">A Clean Cusiinart Ice Cream maker and its neccesary components</li>
+                <li class="- topic/li " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/preparation.dita" xtrc="li:3;10:21">Time. You'll need about 20-45 minutes to make a batch of ice cream, depending on what you're making.</li>
+            </ul>
+            
+            <hazardstatement type="notice" class="+ topic/note hazard-d/hazardstatement " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/preparation.dita" xtrc="hazardstatement:1;13:44">
+                <messagepanel class="+ topic/ul hazard-d/messagepanel " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/preparation.dita" xtrc="messagepanel:1;14:31">
+                    <typeofhazard class="+ topic/li hazard-d/typeofhazard " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/preparation.dita" xtrc="typeofhazard:1;15:35">Overflow</typeofhazard>
+                    <consequence class="+ topic/li hazard-d/consequence " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/preparation.dita" xtrc="consequence:1;16:34">Spills from overflow can damage the machine.</consequence>
+                    <howtoavoid class="+ topic/li hazard-d/howtoavoid " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/preparation.dita" xtrc="howtoavoid:1;17:33">Make sure the recipe you're using makes 2 quarts or less. Any more and your mixture will overflow, possibly damaing the ice cream maker.</howtoavoid>
+                </messagepanel>
+                <hazardsymbol href="Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_images/warning.gif" id="unique_2_Connect_42_sym-warning" placement="inline" class="+ topic/image hazard-d/hazardsymbol " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/preparation.dita" xtrc="hazardsymbol:1;19:142"/>
+            </hazardstatement>
+            
+            <p class="- topic/p " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/preparation.dita" xtrc="p:1;22:16">Beforehand, you’ll need to pick an ice cream recipe that you want to follow. Read over the ingredients to the recipe, gather them, making sure you have measured the amounts of each ingredient beforehand for simplicity. You’ll also need to make sure that the freezer bowl you use to make the ice cream is freezer temperature. This relies on the user before you replacing the bowl when they’re done, but it’s important to note that you can’t make ice cream with this machine if the bowl isn’t freezer temperature. Once the freezer bowl is removed from the freezer, it’ll rapidly warm so only take the freezer bowl out when you’re ready to make ice cream.</p>
+        </prereq>
+        
+        <steps class="- topic/ol task/steps " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/preparation.dita" xtrc="steps:1;25:16">
+            <step class="- topic/li task/step " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/preparation.dita" xtrc="step:1;26:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/preparation.dita" xtrc="cmd:1;27:22">Pick your recipe.</cmd>
+                <info class="- topic/itemgroup task/info " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/preparation.dita" xtrc="info:1;28:23">Chose from the recipes from the Recipes section, or if you have your own recipe, let the main office know so as to prevent cross-contamination and introduction of allergens.</info>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/preparation.dita" xtrc="step:2;30:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/preparation.dita" xtrc="cmd:2;31:22">Collect and prepare all the ingredients listed in the recipe you chose in step 1.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/preparation.dita" xtrc="step:3;33:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/preparation.dita" xtrc="cmd:3;34:22">Plug in the ice cream maker, and make sure the front panel lights turn on.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/preparation.dita" xtrc="step:4;36:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/preparation.dita" xtrc="cmd:4;37:22">Get the freezer bowl component from the freezer. (Figure 1)</cmd>
+                <stepxmp class="- topic/itemgroup task/stepxmp " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/preparation.dita" xtrc="stepxmp:1;38:26">
+                    <image href="Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_images/mixingbowl.png" longdescref="Figure 1: Mixing Bowl. Colors may vary" placement="inline" class="- topic/image " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/preparation.dita" xtrc="image:1;40:175"/>
+                </stepxmp>
+            </step>
+        </steps>
+    </taskbody>
+</task><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic task/task " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="task:1;3:30" xml:lang="en" oid="t-icecream-making" id="unique_3">
+    <title class="- topic/title " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="title:1;4:12">Making the Ice Cream</title>
+    
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="taskbody:1;6:15">
+        <prereq class="- topic/section task/prereq " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="prereq:1;7:17">
+            <ul class="- topic/ul " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="ul:1;8:17">
+                <li class="- topic/li " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="li:1;9:21">Double check that you have all the ingredients that you will need for your recipe prepared and ready to be added to the machine.</li>
+            </ul>
+        </prereq>
+        
+        <context class="- topic/section task/context " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="context:1;13:18">
+            
+            <note type="attention" class="- topic/note " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="note:1;15:36">As the ice cream maker is running, please frequently check to
+                make sure the machine is working as intended. Furthermore, during the ice cream
+                making process, the volume of the ingredients will increase. Be sure to not allow
+                the ice cream mixture to overflow. If, during the ice cream making process, you see
+                the bowl begin to overflow, press the start/stop button, lift the lid, and remove
+                some of the ice cream. This minimizes the amount of mess the machine creates and
+                decreases clean-up time.</note>
+            
+        </context>
+        
+        <steps class="- topic/ol task/steps " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="steps:1;25:16">
+            <step class="- topic/li task/step " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="step:1;26:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="cmd:1;27:22">Place the freezer bowl in the base of the machine in the orientation seen in Figure 1.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="step:2;29:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="cmd:2;30:22">Place the mixing arm in the freezer bowl so the circular side faces up. Note that the arm
+                    does not fit tightly with the bowl, this is normal.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="step:3;33:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="cmd:3;34:22">Place the lid over top of the bowl, ensuring that the lid locks the circular ring of the
+                    mixing arm in place.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="step:4;37:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="cmd:4;38:22">Press the button that corresponds with the type of ice cream you are making. Note that
+                    for frozen yogurt, press the ice cream button. You should hear a beep.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="step:5;41:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="cmd:5;42:22">Press the start / stop button once. The ice cream maker should begin working. Note that
+                    to select a different method, press the Start / Stop button twice.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="step:6;45:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="cmd:6;46:22">Remove the access / measuring cap from the lid of the ice cream maker.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="step:7;48:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="cmd:7;49:22">Using this access hole, pour your ingredients in.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="step:8;51:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="cmd:8;52:22">Wait for the ice cream maker to begin beeping.</cmd>
+                <info class="- topic/itemgroup task/info " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="info:1;53:23">Once the beeping begins, press the Start
+                    / Stop button once to stop the machine. The machine can take anywhere from 15 to 40
+                    minutes depending on recipe and volume of ice cream.</info>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="step:9;57:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="cmd:9;58:22">Serve and Enjoy!</cmd>
+                <stepresult class="- topic/itemgroup task/stepresult " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="stepresult:1;59:29"><image href="Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_images/finishedicecream.jpg" placement="inline" class="- topic/image " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="image:1;59:138"/></stepresult>
+                <steptroubleshooting class="- topic/itemgroup task/steptroubleshooting " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="steptroubleshooting:1;60:38">If the consistency isn’t hard enough, scoop out the contents of the freezer bowl into a sealable plastic container and freeze until desired firmness is achieved.</steptroubleshooting>
+            </step>
+        </steps>
+            
+                
+            
+    </taskbody>
+</task><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic task/task " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/cleanup.dita" xtrc="task:1;3:31" xml:lang="en" oid="t-icecream-cleanup" id="unique_4">
+    <title class="- topic/title " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/cleanup.dita" xtrc="title:1;4:12">Post-Ice Cream and Clean Up</title>
+    
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/cleanup.dita" xtrc="taskbody:1;6:15">
+        
+        <prereq class="- topic/section task/prereq " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/cleanup.dita" xtrc="prereq:1;8:17">
+            
+        <hazardstatement type="notice" class="+ topic/note hazard-d/hazardstatement " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/cleanup.dita" xtrc="hazardstatement:1;10:40">
+            <messagepanel class="+ topic/ul hazard-d/messagepanel " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/cleanup.dita" xtrc="messagepanel:1;11:27">
+                <typeofhazard class="+ topic/li hazard-d/typeofhazard " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/cleanup.dita" xtrc="typeofhazard:1;12:31">Damage to the ICE-60W and its parts.</typeofhazard>
+                <howtoavoid class="+ topic/li hazard-d/howtoavoid " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/cleanup.dita" xtrc="howtoavoid:1;13:29">
+                        Due to the potential risk of damaging the equipment, please do not use the dishwasher to clean dirty parts.
+                        Do not use abrasive cleaners while washing any dirty parts.
+                        Do not attempt to take apart the base of the machine to clean it.  
+                </howtoavoid>
+            </messagepanel>
+            <hazardsymbol href="Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_images/nodishwasher.jpg" placement="inline" class="+ topic/image hazard-d/hazardsymbol " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/cleanup.dita" xtrc="hazardsymbol:1;19:126"/>
+        </hazardstatement>
+            
+        </prereq>
+        
+        <context class="- topic/section task/context " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/cleanup.dita" xtrc="context:1;24:18">
+            <p class="- topic/p " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/cleanup.dita" xtrc="p:1;25:16">Steps to Clean Up</p>
+        </context>
+        
+        <steps class="- topic/ol task/steps " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/cleanup.dita" xtrc="steps:1;28:16">
+            <step class="- topic/li task/step " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/cleanup.dita" xtrc="step:1;29:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/cleanup.dita" xtrc="cmd:1;30:22">Place any leftover ice cream in a plastic resealable container.</cmd>
+                <info class="- topic/itemgroup task/info " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/cleanup.dita" xtrc="info:1;31:23">Do not store ice cream in the freezer bowl. This damages the bowl.</info>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/cleanup.dita" xtrc="step:2;33:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/cleanup.dita" xtrc="cmd:2;34:22">Gather freezer bowl, mixing arm, lid, and measuring / access cap.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/cleanup.dita" xtrc="step:3;36:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/cleanup.dita" xtrc="cmd:3;37:22">Wash all four, using warm soapy water only.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/cleanup.dita" xtrc="step:4;39:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/cleanup.dita" xtrc="cmd:4;40:22">Wipe down machine with damp cloth.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/cleanup.dita" xtrc="step:5;42:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/cleanup.dita" xtrc="cmd:5;43:22">Gather any containers that were used to make the ice cream (jugs, bottles, measuring cups, etc.)</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/cleanup.dita" xtrc="step:6;45:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/cleanup.dita" xtrc="cmd:6;46:22">Rinse the aforementioned objects, and place them in the dishwasher.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/cleanup.dita" xtrc="step:7;48:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/cleanup.dita" xtrc="cmd:7;49:22">Place the clean freezer bowl in the freezer for the next use.</cmd>
+                <info class="- topic/itemgroup task/info " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/cleanup.dita" xtrc="info:2;50:23">This is especially important in order for the ice cream maker to be useable at a moment’s notice.</info>
+            </step>
+        </steps>
+        
+    </taskbody>
+</task><reference xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" ditaarch:DITAArchVersion="1.3" domains="(topic reference)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)   " class="- topic/topic       reference/reference " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_topics/references.dita" xtrc="reference:1;3:38" xml:lang="en" oid="reference_akz_zdj_qx" id="unique_5">
+  <title class="- topic/title " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_topics/references.dita" xtrc="title:1;4:10">References</title>
+  
+  <refbody class="- topic/body        reference/refbody " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_topics/references.dita" xtrc="refbody:1;6:12">
+    <data class="- topic/data " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_topics/references.dita" xtrc="data:1;7:11">Christensen, Emma. "How To Make Dreamy Dairy-Free Vegan Ice Cream - Recipe." The Kitchn., 07 Sept. 2016. Web. 17 Sept. 2016.</data>
+    <data class="- topic/data " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_topics/references.dita" xtrc="data:2;8:11">"Cuisinart 1 1/2 Quart Additional Freezer Bowl [...]" Meredith.com. Web. 17 Sept. 2016. http://images.prod.meredith.com/product/210e397005d0fb9832da0c010dc6ca05/a78 98ecc8d6117912907942cc983a283bd1681d54a22f7a9cac9edf75ba50bf8/m/cuisinart-1- 1-2-quart-additional-freezer-bowl-fits-ice-20-21-ice-cream-and-sorbet-maker.</data>
+  </refbody>
+</reference></map>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="c-icecream" path="_concepts/icecreamconcept.html"/>
+   <appContext helpID="t-icecream-preparation" path="_tasks/preparation.html"/>
+   <appContext helpID="t-icecream-making" path="_tasks/making.html"/>
+   <appContext helpID="t-icecream-cleanup" path="_tasks/cleanup.html"/>
+   <appContext helpID="t-strawberryicecream"
+               path="../../../../../../users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/_recipes/strawberryicecream.html"/>
+   <appContext helpID="t-pineapplesorbet"
+               path="../../../../../../users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/_recipes/pineapplesorbet.html"/>
+   <appContext helpID="t-coconuticecream"
+               path="../../../../../../users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/_recipes/coconuticecream.html"/>
+   <appContext helpID="t-vanillafroyo"
+               path="../../../../../../users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/_recipes/vanillafrozenyogurt.html"/>
+   <appContext helpID="trouble-wrongbutton"
+               path="../../../../../../users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_troubleshooting/wrongbutton.html"/>
+   <appContext helpID="trouble-beeping"
+               path="../../../../../../users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_troubleshooting/beeping.html"/>
+   <appContext helpID="trouble-soupy"
+               path="../../../../../../users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_troubleshooting/soupy.html"/>
+   <appContext helpID="trouble-stopped"
+               path="../../../../../../users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_troubleshooting/stopped.html"/>
+   <appContext helpID="reference_akz_zdj_qx" path="_topics/references.html"/>
+</map>

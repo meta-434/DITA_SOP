@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map title="Suggested Frozen Treat Recipes">
+ <title>Suggested Frozen Treat Recipes</title>
+ <topicref href="/users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/_recipes/strawberryicecream.dita"/>
+ <topicref href="/users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/_recipes/pineapplesorbet.dita"/>
+ <topicref href="/users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/_recipes/coconuticecream.dita"/>
+ <topicref href="/users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/_recipes/vanillafrozenyogurt.dita"/>
+</map>

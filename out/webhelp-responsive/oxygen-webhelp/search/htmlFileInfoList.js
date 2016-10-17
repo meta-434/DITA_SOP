@@ -1,0 +1,9 @@
+fil = new Array();
+fil["0"]= "users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/_recipes/coconuticecream.html@@@Vegan Coconut Ice Cream@@@This recipe makes about 1 quart of ice cream (0.5 pints)...";
+fil["1"]= "users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/_recipes/pineapplesorbet.html@@@Pineapple Sorbet@@@This recipe makes about 7 cups of sorbet (1.75 pints)...";
+fil["2"]= "users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/_recipes/strawberryicecream.html@@@Strawberry Ice Cream@@@This recipe makes about 5 1⁄2 cups of ice cream. (about 1.4 quarts)...";
+fil["3"]= "users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/_recipes/vanillafrozenyogurt.html@@@Vanilla Frozen Yogurt@@@This recipe makes about 4 cups of frozen yogurt (1 pints)...";
+fil["4"]= "users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_troubleshooting/beeping.html@@@Troubleshooting: Beeping@@@The unit is beeping every few minutes. Press the Start / Stop button. The mixing process is done...";
+fil["5"]= "users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_troubleshooting/soupy.html@@@Troubleshooting: Too Soupy@@@The finished mixture is too soupy. Double check recipe, and if all ingredients are correct, the freezer bowl needs to be frozen for longer...";
+fil["6"]= "users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_troubleshooting/stopped.html@@@Troubleshooting: Machine Stopped@@@The unit stopped running, but my ice cream isn’t done churning yet. The machine has overheated. Press Start / Stop button and let the unit cool before trying again...";
+fil["7"]= "users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_troubleshooting/wrongbutton.html@@@Troubleshooting: Wrong Button@@@I pressed the wrong button when choosing which type of dessert to make. Press the Start / Stop button twice, resetting the machine...";

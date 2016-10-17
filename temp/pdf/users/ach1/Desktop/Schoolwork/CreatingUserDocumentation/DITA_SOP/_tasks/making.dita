@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/temp/pdf/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks?><?workdir-uri file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/temp/pdf/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/?><?path2project ../?><?path2project-uri ../?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="t-icecream-making" ditaarch:DITAArchVersion="1.3" domains="(topic task)                            (topic abbrev-d)                            a(props deliveryTarget)                            (topic equation-d)                            (topic hazard-d)                            (topic hi-d)                            (topic indexing-d)                            (topic markup-d)                            (topic mathml-d)                            (topic pr-d)                            (topic relmgmt-d)                            (topic sw-d)                            (topic svg-d)                            (topic ui-d)                            (topic ut-d)                            (topic markup-d xml-d)                            (topic task strictTaskbody-c)   " class="- topic/topic task/task " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="task:1;3:30">
+    <title class="- topic/title " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="title:1;4:12">Making the Ice Cream</title>
+    
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="taskbody:1;6:15">
+        <prereq class="- topic/section task/prereq " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="prereq:1;7:17">
+            <ul class="- topic/ul " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="ul:1;8:17">
+                <li class="- topic/li " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="li:1;9:21">Double check that you have all the ingredients that you will need for your recipe prepared and ready to be added to the machine.</li>
+            </ul>
+        </prereq>
+        
+        <context class="- topic/section task/context " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="context:1;13:18">
+            
+            <note type="attention" class="- topic/note " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="note:1;15:36">As the ice cream maker is running, please frequently check to
+                make sure the machine is working as intended. Furthermore, during the ice cream
+                making process, the volume of the ingredients will increase. Be sure to not allow
+                the ice cream mixture to overflow. If, during the ice cream making process, you see
+                the bowl begin to overflow, press the start/stop button, lift the lid, and remove
+                some of the ice cream. This minimizes the amount of mess the machine creates and
+                decreases clean-up time.</note>
+            
+        </context>
+        
+        <steps class="- topic/ol task/steps " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="steps:1;25:16">
+            <step class="- topic/li task/step " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="step:1;26:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="cmd:1;27:22">Place the freezer bowl in the base of the machine in the orientation seen in Figure 1.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="step:2;29:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="cmd:2;30:22">Place the mixing arm in the freezer bowl so the circular side faces up. Note that the arm
+                    does not fit tightly with the bowl, this is normal.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="step:3;33:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="cmd:3;34:22">Place the lid over top of the bowl, ensuring that the lid locks the circular ring of the
+                    mixing arm in place.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="step:4;37:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="cmd:4;38:22">Press the button that corresponds with the type of ice cream you are making. Note that
+                    for frozen yogurt, press the ice cream button. You should hear a beep.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="step:5;41:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="cmd:5;42:22">Press the start / stop button once. The ice cream maker should begin working. Note that
+                    to select a different method, press the Start / Stop button twice.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="step:6;45:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="cmd:6;46:22">Remove the access / measuring cap from the lid of the ice cream maker.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="step:7;48:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="cmd:7;49:22">Using this access hole, pour your ingredients in.</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="step:8;51:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="cmd:8;52:22">Wait for the ice cream maker to begin beeping.</cmd>
+                <info class="- topic/itemgroup task/info " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="info:1;53:23">Once the beeping begins, press the Start
+                    / Stop button once to stop the machine. The machine can take anywhere from 15 to 40
+                    minutes depending on recipe and volume of ice cream.</info>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="step:9;57:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="cmd:9;58:22">Serve and Enjoy!</cmd>
+                <stepresult class="- topic/itemgroup task/stepresult " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="stepresult:1;59:29"><image href="../_images/finishedicecream.jpg" placement="inline" class="- topic/image " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="image:1;59:138"/></stepresult>
+                <steptroubleshooting class="- topic/itemgroup task/steptroubleshooting " xtrf="file:/Users/ach1/Desktop/Schoolwork/CreatingUserDocumentation/DITA_SOP/_tasks/making.dita" xtrc="steptroubleshooting:1;60:38">If the consistency isn’t hard enough, scoop out the contents of the freezer bowl into a sealable plastic container and freeze until desired firmness is achieved.</steptroubleshooting>
+            </step>
+        </steps>
+            
+                
+            
+    </taskbody>
+</task>

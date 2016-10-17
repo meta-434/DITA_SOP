@@ -2,11 +2,13 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="t-icecream-recipes">
     <title>Ice Cream Recipes</title>
-    <shortdesc/>
+    <shortdesc></shortdesc>
+    
     <taskbody>
-        <context>
+        
+        
             <p></p>
-        </context>
+        
         <steps>
             <step>
                 <cmd></cmd>
