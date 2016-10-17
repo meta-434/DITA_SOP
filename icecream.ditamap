@@ -2,6 +2,11 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map title="Ice Cream Standard Operating Procedure">
  <title>Cuisinart ICE-60W Instructions </title>
- <topicref href="icecreamconcept.dita" /> 
+ <topicref href="_concepts/icecreamconcept.dita" /> 
+ <topicref href="_tasks/preparation.dita" />
+ <topicref href="_tasks/making.dita"/>
+ <topicref href="_tasks/cleanup.dita"/>
+ <topicref href="_tasks/recipes.dita"/>
+ <topicref href="_tasks/troubleshooting.dita"/>
 </map>
 
