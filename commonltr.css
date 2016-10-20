@@ -1,6 +1,7 @@
 /*
  | This file is part of the DITA Open Toolkit project.
  | See the accompanying license.txt file for applicable licenses.
+ | author- alex hapgood
 */
 /*
  | (c) Copyright IBM Corp. 2004, 2005 All Rights Reserved.
@@ -337,7 +338,7 @@ div.imagejustify {
    {border-right:solid}
    This value creates a very thick border in Firefox (does not match other tables)
 
-   Firefox works with 
+   Firefox works with
    {border-right:solid 1pt}
    but this causes a barely visible line in IE */
 .cellrowborder {
